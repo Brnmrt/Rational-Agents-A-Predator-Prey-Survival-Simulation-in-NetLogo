@@ -42,9 +42,6 @@ This repository showcases the ability to design, implement, and analyze the beha
 To run this simulation, you will need to have [NetLogo](https://ccl.northwestern.edu/netlogo/) installed.
 
 1.  Clone the repo
-    ```sh
-    git clone [https://github.com/your_username_/Project-Name.git](https://github.com/your_username_/Project-Name.git)
-    ```
 2.  Open the `IIA_TP1.nlogo` file in NetLogo.
 3.  Use the interface to set the initial parameters for the simulation.
 4.  Click the "Setup" button to initialize the world.
